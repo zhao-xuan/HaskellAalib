@@ -1,0 +1,2 @@
+# HaskellAalib
+Aalib in Haskell
