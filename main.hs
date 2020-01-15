@@ -11,3 +11,5 @@ main :: IO ()
 main = do image <- readImageRGB VU "sunflower.jpg"
           let img = I.map invert image
           displayImage img
+
+--http://www.piclist.com/tecHREF/datafile/charset/extractor/charset_extractor.htm
